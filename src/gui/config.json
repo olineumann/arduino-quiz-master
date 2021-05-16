@@ -1,0 +1,12 @@
+{
+    "serial": {
+        "port": "/dev/ttyUSB0",
+        "baudrate": 9600,
+        "timeout": 10
+    },
+    "player": {
+        "0": "Peter",
+        "1": "Lou",
+        "2": "Oli"
+    }
+}
