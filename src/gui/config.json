@@ -5,8 +5,38 @@
         "timeout": 10
     },
     "player": {
-        "0": "Peter",
-        "1": "Lou",
-        "2": "Oli"
+        "0": "Please",
+        "1": "Add",
+        "2": "Your",
+        "3": "Player",
+        "4": "Names",
+        "5": "Here"
+    },
+    "style": {
+        "first": {
+            "background": 13631395,
+            "font":{
+                "pointSize": 72,
+                "weight": 75
+            }
+        },
+        "second": {
+            "background": "white",
+            "font":{
+                "pointSize": 56
+            }
+        },
+        "third": {
+            "background": "white",
+            "font":{
+                "pointSize": 56
+            }
+        },
+        "other": {
+            "background": "white",
+            "font":{
+                "pointSize": 56
+            }
+        }
     }
 }
